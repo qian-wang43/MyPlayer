@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.project.myplayer.MainActivity">
+    <item
+        android:id="@+id/manu_add_item"
+        android:icon="@drawable/ic_add"
+        android:orderInCategory="100"
+        android:title="Add Song"
+        app:showAsAction="never" />
+</menu>
